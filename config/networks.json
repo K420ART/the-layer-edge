@@ -1,0 +1,50 @@
+{
+    "ethereum": {
+        "name": "Ethereum",
+        "rpc_url": "https://mainnet.infura.io/v3/3892b93ec4e0444da79453f5b9c188fa",
+        "explorer_url": "https://api.etherscan.io/api",
+        "chain_id": 1,
+        "decimals": 18,
+        "api_key": "RJ2XA2B68IWZHS36PKD5JZURIHF2TZS9YN"
+    },
+    "polygon": {
+        "name": "Polygon",
+        "rpc_url": "https://polygon-mainnet.infura.io/v3/3892b93ec4e0444da79453f5b9c188fa",
+        "explorer_url": "https://api.polygonscan.com/api",
+        "chain_id": 137,
+        "decimals": 18,
+        "api_key": "1CXSH953DT8N933NGZJN6I7GIVD9E3ZQ4C"
+    },
+    "binanceSmartChain": {
+        "name": "Binance Smart Chain",
+        "rpc_url": "https://bsc-dataseed.binance.org/",
+        "explorer_url": "https://api.bscscan.com/api",
+        "chain_id": 56,
+        "decimals": 18,
+        "api_key": "QSF3IM859ZRTRZJ8ZQFH7XHBBIMSPDJHGI"
+    },
+    "optimism": {
+        "name": "Optimism",
+        "rpc_url": "https://mainnet.optimism.io",
+        "explorer_url": "https://api-optimistic.etherscan.io/api",
+        "chain_id": 10,
+        "decimals": 18,
+        "api_key": "UZG1MIICYNW659BZJG4R44X5FAD7WIJCT4"
+    },
+    "base": {
+        "name": "Base",
+        "rpc_url": "https://base-mainnet.infura.io/v3/3892b93ec4e0444da79453f5b9c188fa",
+        "explorer_url": "https://api.basescan.org/api",
+        "chain_id": 8453,
+        "decimals": 18,
+        "api_key": "XR92R7UATCGIXK9A9HVI1VIQGS1R5DCP7U"
+    },
+    "arbitrum": {
+        "name": "Arbitrum",
+        "rpc_url": "https://arbitrum-mainnet.infura.io/v3/3892b93ec4e0444da79453f5b9c188fa",
+        "explorer_url": "https://api.arbiscan.io/api",
+        "chain_id": 42161,
+        "decimals": 18,
+        "api_key": "SG79K21X1K5M2WQMMFXUI1V4ZN51K7RS5M"
+    }
+}

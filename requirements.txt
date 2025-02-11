@@ -1,0 +1,8 @@
+aiohttp==3.9.1
+aiohttp-socks==0.8.4
+asyncio==3.4.3
+colorama==0.4.6
+eth-account==0.9.0
+readchar==4.0.5
+requests==2.31.0
+argparse==1.4.0
