@@ -47,7 +47,7 @@ pip install -r requirements.txt
 python run.py
 ```
 
-### OR WITH METHODE 
+### OR WITH METHOD 2
 
 #### **1️⃣ Clone Repository**
 ```bash
