@@ -40,6 +40,23 @@ cd the-layer-edge
 
 2️⃣ Installing Dependencies
 ```bash
+pip install -r requirements.txt
+```
+3️⃣ Running the Application
+```bash
+python run.py
+```
+
+### OR WITH METHODE 
+
+#### **1️⃣ Clone Repository**
+```bash
+git clone https://github.com/K420ART/the-layer-edge.git
+cd the-layer-edge
+````
+
+2️⃣ Installing Dependencies
+```bash
 chmod +x install.sh
 ./install.sh
 ```
@@ -48,7 +65,6 @@ chmod +x install.sh
 chmod +x start.sh
 ./start.sh
 ```
-
 
 #### 🛠 Configuration
 Before running the project, make sure to set the configuration file in config/config.json:
