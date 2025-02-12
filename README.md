@@ -7,7 +7,7 @@
 
 ![image](https://github.com/user-attachments/assets/e76de53d-3d9b-4f96-bb9e-fee2cf914038)
 
-> This is a script / bot that is specialised to run the Layer Edge Platform easily and very quickly and also get a lot of referrals without effort.
+> This is a script / bot that is specialised to run the LAYER EDGE Platform easily and very quickly and also get a lot of referrals without effort.
 
 ---
 
@@ -17,7 +17,7 @@
 
 ✅ Multi Account Support
 
-✅ Multithreads Worked
+✅ Multi threads Worked
 
 ✅ Automatic Farm [ Start node, Stop node, Check-in ] 
 
@@ -25,7 +25,7 @@
 
 ✅ Automatic Generated Referral Account and Save it
 
-✅ Run Faster [ in my experiment I was able to run 300+ accounts within 7 minutes ]
+✅ Run Faster [ in my experiment I was able to run 300+ accounts within 5 minutes ]
 
 ✅ 24/7
 
@@ -107,7 +107,7 @@ This project is licensed under the `MIT License` - see the LICENSE file for more
 ---
 
 <p align="center">
-  Made with ❤️ oleh <a href="https://github.com/K420ART">K420ART</a> | 
+  Made with ❤️ by <a href="https://github.com/K420ART">K420ART</a> | 
   📧 <a href="mailto:your.email@example.com">Email</a> | 
   🐦 <a href="https://twitter.com/yourhandle">Twitter</a>
 </p>
