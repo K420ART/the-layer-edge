@@ -82,7 +82,14 @@ Before running the project, make sure to set the configuration file in config/co
 Input the privatekey data into the file below before running the bot you can see in `data/` folder.
 
  - Main private key to run node: `accounts.txt`
+ ```yaml
+ YOUR_PRIVATE_KEY
+ ```
+
  - For unregistered accounts: `register.txt`
+ ```yaml
+ YOUR_UNREGISTERED_PRIVATE_KEY
+ ```
 
 #### 🛜 Proxy Setting 
 For proxy can be saved in `data/` folder `proxy.txt`
