@@ -7,7 +7,7 @@
 
 ![image](https://github.com/user-attachments/assets/e76de53d-3d9b-4f96-bb9e-fee2cf914038)
 
-> This is a script / bot that is specialised to run the LAYER EDGE Platform easily and very quickly and also get a lot of referrals without effort.
+> The Best Script / BOT that is SPECIALIZED to Run the LAYEREDGE Platform Easily And Very Quickly And Also Get a Lot of Referrals Without Effort.
 
 ---
 
