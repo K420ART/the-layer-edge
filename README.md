@@ -5,7 +5,8 @@
 ![GitHub licence](https://img.shields.io/github/license/K420ART/repository)
 ![GitHub issues](https://img.shields.io/github/issues/K420ART/repository)
 
-![image](image.png)
+![image](https://github.com/user-attachments/assets/c2975c05-75b3-4e0e-b2cc-80cfd4e8aa83)
+
 
 > The Best Script / BOT that is SPECIALIZED to Run the LAYEREDGE Platform Easily And Very Quickly And Also Get a Lot of Referrals Without Effort.
 
