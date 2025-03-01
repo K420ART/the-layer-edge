@@ -5,7 +5,7 @@
 ![GitHub licence](https://img.shields.io/github/license/K420ART/repository)
 ![GitHub issues](https://img.shields.io/github/issues/K420ART/repository)
 
-![image](https://github.com/user-attachments/assets/e76de53d-3d9b-4f96-bb9e-fee2cf914038)
+![image](image.png)
 
 > The Best Script / BOT that is SPECIALIZED to Run the LAYEREDGE Platform Easily And Very Quickly And Also Get a Lot of Referrals Without Effort.
 
@@ -13,21 +13,27 @@
 
 ## 🌟 Features
 
-✅ Proxy Support **( Http & Socks5 )**
+- Auto Submit Proof `BETA COMING`
 
-✅ Multi Account Support
+- Auto Mint FREE / PAID NFT `BETA COMING`
 
-✅ Multi threads Worked
+- Auto Complete Quest `BETA COMING`
 
-✅ Automatic Farm [ Start node, Stop node, Check-in ] 
+- Proxy Support **( Http & Socks5 )**
 
-✅ Automatic Register With your Referral
+- Multi Account Support
 
-✅ Automatic Generated Referral Account and Save it
+- Multi threads Worked
 
-✅ Run Faster [ in my experiment I was able to run 300+ accounts within 5 minutes ]
+- Automatic Farm [ Start node, Stop node, Check-in ] 
 
-✅ 24/7
+- Automatic Register With your Referral
+
+- Automatic Generated Referral Account and Save it
+
+- Run Faster [ in my experiment I was able to run 300+ accounts within 5 minutes ]
+
+- 24/7
 
 
 ### 🔧 Installation & Usage

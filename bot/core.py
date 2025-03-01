@@ -1,4 +1,4 @@
-import asyncio, os, readchar
+import asyncio, os, readchar, time
 from colorama import init
 from config.config import ACCOUNT_FILE, REGIST_FILE, get_config
 from utils.utils import clear, ascii, masked, time_remain
@@ -35,6 +35,9 @@ class LayerEdge:
             f"4. {GREEN}Register Account    {BLACK}[without Proxy]",
             f"5. {GREEN}Generate & Register {BLUE}[with Proxy]",
             f"6. {GREEN}Generate & Register {BLACK}[without Proxy]",
+            f"7. {GREEN}Auto Submit Proof   {BLUE}[BETA COMING]",
+            f"8. {GREEN}Auto Mint NFT       {BLACK}[BETA COMING]",
+            f"9. {GREEN}Auto Complete Quest {BLUE}[BETA COMING",
         ]
 
         while True:
@@ -217,7 +220,7 @@ class LayerEdge:
                     for idx, (private_key, _) in enumerate(wallets, start=1):
                         await self.process_registration(idx, private_key, use_proxy)
                 return
-            
+                            
             if use_proxy_choice in [3, 4] :
                 await self.register_from_file(use_proxy)
                 return  
